@@ -1,2 +1,2 @@
-# hrd
-Hertzsprung-Russell Diagram
+# Hertzsprung-Russell Diagram
+
